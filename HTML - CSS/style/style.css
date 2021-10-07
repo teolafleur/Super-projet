@@ -3,3 +3,8 @@ body {
     background: rgb(145,92,145);
     color: rgb(254,254,254);
 }
+header {
+    min-height: 100vh;
+    background: rgb(145,92,145);
+    color: rgb(254,254,254);
+}
